@@ -6,6 +6,16 @@
 
 Test framework implementation for 5 most important test cases for https://www.saucedemo.com website.
 
+## Dependencies
+
+typescript - version 4.5.5
+
+chai - version 4.3.4
+
+@types/node - version 20.9.0
+
+@types/mocha - version 10.0.0
+
 ## Usage
 
 To execute tests run command below inside your project root to install all dependencies needed for this test.
